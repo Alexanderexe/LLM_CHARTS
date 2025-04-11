@@ -1,0 +1,47 @@
+# API and configuration files
+config.py
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.csv
+results_*/ 
+~$Peer-to-Peer Chart Review Form - MEDvidi (Responses).xlsx
+Peer-to-Peer Chart Review Form - MEDvidi (Responses).xlsx
+chart_compare.ipynb
